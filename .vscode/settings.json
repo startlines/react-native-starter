@@ -1,5 +1,6 @@
 {
     "tslint.autoFixOnSave": true,
+    "tslint.enable": true,
     "emmet.includeLanguages": {
         "javascript": "jsx",
         "typescript": "jsx",
